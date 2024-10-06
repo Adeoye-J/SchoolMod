@@ -1,4 +1,4 @@
-# EasyTech School Management Dashboard
+# SchoolMod School Management Dashboard
 
 ## Getting Started
 
